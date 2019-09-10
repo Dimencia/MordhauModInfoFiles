@@ -8,9 +8,6 @@
   <Version>Increase this when you update your mod so it is auto-downloaded</Version>
   <ReleaseDate>Formatted exactly: dd/mm/yyyy including 0s where necessary</ReleaseDate>
   <FileSize>Unzipped size of all your files so players can avoid large mods if they need to</FileSize>
-  <ThumbnailURL>URL to a thumbnail image displayed at size 698x146.  If image is too large it will crop it around the center.  
-  Must be an actual image link, ending with .jpg,.png, etc, and not a google drive or indirect imgur link.  
-  Thunbnail required</ThumbnailURL>
-  <DownloadURL>Optionally link to your own uploaded zip file; path must end in .zip, it must be a direct link.  
-  Leave blank if your file is uploaded on the master github</DownloadURL>
+  <ThumbnailURL>https://i.ytimg.com/vi/wfGxOBzfDqQ/maxresdefault.jpg</ThumbnailURL>
+  <DownloadURL></DownloadURL>
 </Mod>
