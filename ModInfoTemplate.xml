@@ -6,7 +6,7 @@
   <Description>This is a description of my mod, what it does, and any warnings or tips about it</Description>
   <Authors>These are the authors and contributors for this mod</Authors>
   <Version>Increase this when you update your mod so it is auto-downloaded</Version>
-  <ReleaseDate>Formatted exactly: dd/mm/yyyy including 0's where necessary</ReleaseDate>
+  <ReleaseDate>Formatted exactly: dd/mm/yyyy including 0s where necessary</ReleaseDate>
   <FileSize>Unzipped size of all your files so players can avoid large mods if they need to</FileSize>
   <ThumbnailURL>URL to a thumbnail image displayed at size 698x146.  If image is too large it will crop it around the center.  
   Must be an actual image link, ending with .jpg,.png, etc, and not a google drive or indirect imgur link.  
