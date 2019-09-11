@@ -2,7 +2,7 @@
 <Mod>
   <Name>This is my mod name</Name>
   <ZipFileName>This is the name of my mod's zip file (i.e. something.zip).  If this ever changes, it will be considered a different mod regarding updates
-  This must also be the name of this xml file</ZipFileName>
+  This must also be the name of this xml file2</ZipFileName>
   <Description>This is a description of my mod, what it does, and any warnings or tips about it</Description>
   <Authors>These are the authors and contributors for this mod</Authors>
   <Version>Increase this when you update your mod so it is auto-downloaded</Version>
